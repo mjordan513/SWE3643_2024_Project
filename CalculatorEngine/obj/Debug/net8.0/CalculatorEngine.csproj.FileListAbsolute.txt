@@ -1,0 +1,4 @@
+C:\Users\MJ Brothers\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ Brothers\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.AssemblyInfoInputs.cache
+C:\Users\MJ Brothers\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.AssemblyInfo.cs
+C:\Users\MJ Brothers\source\repos\CalculatorEngine\CalculatorEngine\obj\Debug\net8.0\CalculatorEngine.csproj.CoreCompileInputs.cache
